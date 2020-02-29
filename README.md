@@ -1,4 +1,8 @@
 # 지렁이 게임
+
+![image](https://user-images.githubusercontent.com/40929457/75613421-e1253c00-5b70-11ea-9b7a-e902cec4a586.png)
+
+
 ## 사용언어
 VanillaJS
 
